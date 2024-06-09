@@ -11,6 +11,7 @@
 - 📫 How to reach me **priyanshusingh241202@gmail.com**
 
 - ⚡ Fun fact **Cricket Enthusiast**
+  [![trophy](https://github-profile-trophy.vercel.app/?username=priyanshudhoni)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
