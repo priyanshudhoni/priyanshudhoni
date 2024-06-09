@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/code-gif-7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshudhoni&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshudhoni" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshudhoni" alt="priyanshudhoni" /></a> </p>
+<p align="left"> <a href="https://github.com/priyanshudhoni/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshudhoni" alt="priyanshudhoni" /></a> </p>
 
 - 🌱 I’m currently learning **Threat Hunting and Incident Response**
 
