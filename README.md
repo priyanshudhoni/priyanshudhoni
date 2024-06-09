@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshudhoni&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshudhoni" /> </p>
 
 
-- 🌱 I’m currently learning **Threat Hunting and Incident Response**
+- 🌱 I’m currently learning **Threat Hunting and Incident Response.**
 
 - 💬 Ask me about **Java, Python, JavaScript.**
 
