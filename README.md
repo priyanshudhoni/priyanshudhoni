@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Threat Hunting and Incident Response.**
 
-- 💬 Ask me about **Java, Python, JavaScript.**
+- 💬 Ask me about **Java, Python, JavaScript. SIEM tools - Securonix, Arcsight, QRadar.**
 
 - 📫 How to reach me **priyanshusingh241202@gmail.com**
 
